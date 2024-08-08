@@ -1,0 +1,37 @@
+{
+  "cities": [
+    {
+      "cityName": "Markaz Bani Suwayf",
+      "country": "Egypt",
+      "notes": "egypt",
+      "emoji": "🇪🇬",
+      "position": {
+        "lat": "29.06028678200271",
+        "lng": "31.554824685723002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "notes": "a",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.02904811481955",
+        "lng": "-0.055444034433023155"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Bush",
+      "country": "Egypt",
+      "notes": "note",
+      "emoji": "🇪🇬",
+      "position": {
+        "lat": "29.20844065979882",
+        "lng": "31.19844209921087"
+      },
+      "id": 5
+    }
+  ]
+}
